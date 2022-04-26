@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! I am 2nd year student at University of Waterloo computer science program. 
 
 <!--
 **LOUISSong01/LOUISSong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
